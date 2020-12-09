@@ -1,0 +1,1 @@
+- docker exec container_name cat /etc/hosts

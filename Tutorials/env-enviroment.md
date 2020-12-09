@@ -1,0 +1,1 @@
+- docker run -p 8000:8080 -e APP_COLOR=blue  kodekloud/simple-webapp
